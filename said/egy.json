@@ -1,0 +1,115 @@
+{
+    "panel_link": "https://theactualpanel.motv.top/api/",
+    
+    "blackList" : "usa,ca,uk",
+    "panel_link_redirection": "https://flix.virmana.com/api/",
+    
+    "external_player"    : false,
+    "external_player_id" :"com.marwan.player",
+    
+    "code":"200",
+    "message":"New version available!!!",
+    "update_store_package_name": "egybestinc.app",
+    
+    "values":[
+        {
+            "name":"update",
+            "value":"Download new version from store!"
+        },
+        {
+            "name":"user",
+            "value":"200"
+        },
+        {
+            "name":"subscription",
+            "value":"FALSE"
+        },
+        {
+            "name":"ADMIN_REWARDED_AD_TYPE",
+            "value":"ADMOB"
+        },
+        {
+            "name":"ADMIN_REWARDED_ADMOB_ID",
+            "value":"ca-app-pub-XXXX3940256099942544/5224354917XXXXXXXXXXXXX"
+        },
+        {
+            "name":"ADMIN_INTERSTITIAL_ADMOB_ID",
+            "value":"ca-app-pub-XXXXX3940256099942544/1033173712XXXXXXXXXXXXXX"
+        },
+        {
+            "name":"ADMIN_INTERSTITIAL_FACEBOOK_ID",
+            "value":"1503a0dc9XXXXXXXXXXXXX"
+        },
+        {
+            "name":"ADMIN_INTERSTITIAL_TYPE",
+            "value":"IS"
+        },
+        {
+            "name":"ADMIN_INTERSTITIAL_CLICKS",
+            "value":2
+        },
+        {
+            "name":"ADMIN_BANNER_ADMOB_ID",
+            "value":"ca-app-pub-3940256099942544/6300978111"
+        },
+        {
+            "name":"ADMIN_BANNER_FACEBOOK_ID",
+            "value":"1503a0dc9XXXXXXXXXXXXX"
+        },
+        {
+            "name":"ADMIN_BANNER_TYPE",
+            "value":"IS"
+        },{
+            "name":"ADMIN_NATIVE_FACEBOOK_ID",
+            "value":"9c17f55ce685e2edXXXXXXXXXXXX"
+        },
+        {
+            "name":"ADMIN_NATIVE_ADMOB_ID",
+            "value":"9c17f55ce685e2edXXXXXXXXXXXX"
+        },
+        {
+            "name":"ADMIN_NATIVE_LINES",
+            "value":3
+        },
+        {
+            "name":"ADMIN_NATIVE_TYPE",
+            "value":"MAX"
+        },
+        {
+            "name":"APP_CURRENCY",
+            "value":null
+        },
+        {
+            "name":"APP_CASH_ACCOUNT",
+            "value":null
+        },
+        {
+            "name":"APP_STRIPE_PUBLIC_KEY",
+            "value":null
+        },
+        {
+            "name":"APP_STRIPE_ENABLED",
+            "value":"FALSE"
+        },
+        {
+            "name":"APP_PAYPAL_ENABLED",
+            "value":"FALSE"
+        },
+        {
+            "name":"APP_CASH_ENABLED",
+            "value":"FALSE"
+        },
+        {
+            "name":"APP_GPLAY_ENABLED",
+            "value":"FALSE"
+        },
+        {
+            "name":"APP_LOGIN_REQUIRED",
+            "value":"FALSE"
+        },
+        {
+            "name":"APP_PAYPAL_CLIENT_ID",
+            "value":null
+        }
+    ]
+}
