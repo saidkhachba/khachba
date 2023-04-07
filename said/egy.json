@@ -42,7 +42,7 @@
         },
         {
             "name":"ADMIN_INTERSTITIAL_TYPE",
-            "value":"IS"
+            "value":"issssssssssssIS"
         },
         {
             "name":"ADMIN_INTERSTITIAL_CLICKS",
@@ -58,7 +58,7 @@
         },
         {
             "name":"ADMIN_BANNER_TYPE",
-            "value":"IS"
+            "value":"issssssssssssssIS"
         },{
             "name":"ADMIN_NATIVE_FACEBOOK_ID",
             "value":"9c17f55ce685e2edXXXXXXXXXXXX"
@@ -73,7 +73,7 @@
         },
         {
             "name":"ADMIN_NATIVE_TYPE",
-            "value":"MAX"
+            "value":"maxxxxxxxxxMAX"
         },
         {
             "name":"APP_CURRENCY",
