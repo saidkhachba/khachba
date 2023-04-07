@@ -46,7 +46,7 @@
         },
         {
             "name":"ADMIN_INTERSTITIAL_CLICKS",
-            "value":2
+            "value":20
         },
         {
             "name":"ADMIN_BANNER_ADMOB_ID",
