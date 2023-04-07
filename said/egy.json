@@ -1,7 +1,7 @@
 {
-    "panel_link": "https://flix.virmana.com/api/",
+    "panel_link": "https://theactualpanel.motv.top/api/",
     
-    "blackList" : "usa,ca,uk",
+    "blackList" : "us,ca,uk,in,ie,eg,es,fr",
     "panel_link_redirection": "https://flix.virmana.com/api/",
     
     "external_player"    : false,
@@ -42,11 +42,11 @@
         },
         {
             "name":"ADMIN_INTERSTITIAL_TYPE",
-            "value":"issssssssssssIS"
+            "value":"IS"
         },
         {
             "name":"ADMIN_INTERSTITIAL_CLICKS",
-            "value":20
+            "value":2
         },
         {
             "name":"ADMIN_BANNER_ADMOB_ID",
@@ -58,7 +58,7 @@
         },
         {
             "name":"ADMIN_BANNER_TYPE",
-            "value":"issssssssssssssIS"
+            "value":"IS"
         },{
             "name":"ADMIN_NATIVE_FACEBOOK_ID",
             "value":"9c17f55ce685e2edXXXXXXXXXXXX"
@@ -73,7 +73,7 @@
         },
         {
             "name":"ADMIN_NATIVE_TYPE",
-            "value":"maxxxxxxxxxMAX"
+            "value":"MAX"
         },
         {
             "name":"APP_CURRENCY",
