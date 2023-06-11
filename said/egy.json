@@ -4,8 +4,8 @@
     "blackList" : "us,ca,uk,qa,in,ie,eg,es,fr",
     "panel_link_redirection": "https://flix.virmana.com/api/",
     
-    "external_player"    : false,
-    "external_player_id" :"com.egy.player",
+    "external_player"    : true,
+    "external_player_id" :"com.MAROUANE.player",
     
     "code":"200",
     "message":"New version available!!!",
